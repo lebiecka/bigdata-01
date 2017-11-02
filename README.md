@@ -1,7 +1,7 @@
 # bme-data-exp
 Biomedical engineering - miniproject - data exploration
 
-Global Terrorist dataset used in this project comes from: https://www.kaggle.com/START-UMD/gtd (the dataset was too big to load it here).
+Global Terrorism database used in this project comes from: https://www.kaggle.com/START-UMD/gtd (the dataset was too big to load it here).
 
 In this repo you can find jupyter notebook: bigdata-01-mini-project.ipynb, with answers for questions below:
 
